@@ -5,7 +5,7 @@
       "enabled": true
     },
     "enableRenovate": false,
-    "ignorePresets": ["config:recommended", "github>mend-toolkit/mend-examples//Repo-Integration/Renovate/smart-merge"]
+    "ignorePresets": ["config:recommended", "mergeConfidence:all-badges", "github>mend-toolkit/mend-examples//Repo-Integration/Renovate/smart-merge"]
   }
 }
 
