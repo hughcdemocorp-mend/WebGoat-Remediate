@@ -1,5 +1,8 @@
 {
   "settingsInheritedFrom": "hughcdemocorp-mend/whitesource-config@main",
+  "issueSettingsSAST": {
+    "issueType": "finding"
+  }
   "remediateSettings": {
     "workflowRules": {
       "enabled": true
